@@ -1,0 +1,12 @@
+.resources__link {
+  background-color: #fff;
+  height: 100%;
+  width: 100%;
+  display: block;
+  opacity: 0;
+  transition: opacity .4s ease;
+}
+
+.resources__link:hover {
+  opacity: 0.6;
+}

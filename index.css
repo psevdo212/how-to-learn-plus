@@ -22,11 +22,11 @@
 @import url(./blocks/section-subtitle/section-subtitle.css);
 @import url(./blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
 @import url(./blocks/techniques/techniques.css);
-@import url(./blocks/techniques/__cards/techniques__cards.css);
-@import url(./blocks/techniques/__cards/_cards-item/techniques__cards_cards-item.css);
-@import url(./blocks/techniques/__cards/_cards-image/techniques__cards_cards-image.css);
-@import url(./blocks/techniques/__cards/_cards-title/techniques__cards_cards-title.css);
-@import url(./blocks/techniques/__cards/_cards-description/techniques__cards_cards-description.css);
+@import url(./blocks/cards/cards.css);
+@import url(./blocks/cards/__cards-item/cards__cards-item.css);
+@import url(./blocks/cards/__cards-image/cards__cards-image.css);
+@import url(./blocks/cards/__cards-title/cards__cards-title.css);
+@import url(./blocks/cards/__cards-description/cards__cards-description.css);
 @import url(./blocks/video/video.css);
 @import url(./blocks/video/__iframes/video__iframes.css);
 @import url(./blocks/video/__iframe/video__iframe.css);
@@ -66,6 +66,7 @@
 @import url(./blocks/footer/footer.css);
 @import url(./blocks/footer/__author/footer__author.css);
 @import url(./blocks/footer/__columns/footer__columns.css);
+@import url(./blocks/footer/__column/footer__column.css);
 @import url(./blocks/footer/__column/_content/_copyright/footer__column_content_copyright.css);
 @import url(./blocks/footer/__column/_content/_info/footer__column_content_info.css);
 @import url(./blocks/footer/__column/_content/_social/footer__column_content_social.css);

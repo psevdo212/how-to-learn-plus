@@ -1,6 +1,6 @@
-.cards__cards-image {
+.cards__image {
   height: 160px;
   width: 160px;
-  border-radius: 100px;
+  border-radius: 50%;
   margin: 0 40px;
 }

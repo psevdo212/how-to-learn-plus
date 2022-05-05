@@ -1,7 +1,8 @@
-.cards__cards-title {
+.cards__title {
   padding-top: 43px;
   font-weight: 700;
   font-size: 24px;
   line-height: 115%;
   text-align: center;
+  margin: 0;
 }

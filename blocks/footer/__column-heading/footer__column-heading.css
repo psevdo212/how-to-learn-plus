@@ -1,3 +1,7 @@
 .footer__column-heading {
   padding-bottom: 20px;
+  margin: 0;
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: 700;
 }
